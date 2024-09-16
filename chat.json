@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific issue are you experiencing with the show alert button?\", \"option1\": \"It does not trigger an alert\", \"option2\": \"The alert message is not correct\"}, {\"question 2\": \"Would you like to adjust the button's size or appearance as part of the fix?\", \"option1\": \"Yes, please make it larger\", \"option2\": \"No, I just want the functionality fixed\"}], \"input_token_count\": 444, \"output_token_count\": 99, \"time_taken\": \"0:00:01.607530\"}",
+        "message_id": "guest16092024173020",
+        "timestamp": "16092024173026",
+        "component_file_name": "purple_background_cta_component_1726504854",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Fix the show alert button please",
         "message_id": "guest16092024173020",
