@@ -97,6 +97,17 @@ INSTRUCTION: The feature sections are organised in a grid of two rows, each with
             </div>
         </div>
     </div>
+
+    <!-- Alert Button -->
+    <div class="mt-8 flex justify-center">
+        <button
+            id="show-alert-button"
+            class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg shadow-md transition duration-300 ease-in-out"
+            @click="showAlert"
+        >
+            Show Alert
+        </button>
+    </div>
 </template>
 
 <script>
@@ -108,7 +119,15 @@ export default {
             tab: null,
         };
     },
+    methods: {
+        // Show Alert method
+        showAlert() {
+            alert("This is an alert!");
+        }
+        // End of Show Alert method
+    },
 };
+</script>
 </script>
 
 <style scoped>
