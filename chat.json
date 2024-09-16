@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text do you want the alert button to display?\", \"option1\": \"Display a static message\", \"option2\": \"Display a customizable message\"}, {\"question 2\": \"Where would you like the alert button to be positioned on the page?\", \"option1\": \"Top of the page\", \"option2\": \"Bottom of the page\"}], \"input_token_count\": 504, \"output_token_count\": 86, \"time_taken\": \"0:00:01.120997\"}",
+        "message_id": "guest16092024181402",
+        "timestamp": "16092024181407",
+        "component_file_name": "purple_feature_grid_component_1726504854",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button that alerts in the browser when clicked",
         "message_id": "guest16092024181402",
