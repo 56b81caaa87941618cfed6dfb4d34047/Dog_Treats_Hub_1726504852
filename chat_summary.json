@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will change the background to blue.",
+        "timestamp": "16092024164322",
+        "message_id": "guest16092024164321"
+    },
+    {
         "role": "user",
         "content": "Change the background to blue",
         "timestamp": "16092024164321",
