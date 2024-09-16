@@ -6,7 +6,7 @@ INSTRUCTION: The feature sections are organised in a grid of two rows, each with
 
 <template>
     <!-- Features list -->
-    <div id="features-grid" style="min-height: 390px" class="grid md:grid-cols-3 gap-8 md:gap-12 bg-white p-5">
+    <div id="features-grid" style="min-height: 550px"  class="grid md:grid-cols-3 gap-8 md:gap-12 bg-white p-5">
         <!-- Feature 1 -->
         <div id="feature-1">
             <div id="feature-1-header" class="flex items-center space-x-2 mb-1">
