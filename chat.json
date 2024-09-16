@@ -15,5 +15,14 @@
         "component_file_name": "purple_background_cta_component_1726504854",
         "div_id": "",
         "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a button that triggers a browser alert.",
+        "message_id": "guest16092024164124",
+        "timestamp": "16092024164124",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     }
 ]

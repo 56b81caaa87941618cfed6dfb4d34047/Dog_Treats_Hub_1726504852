@@ -12,5 +12,11 @@
         "content": "Add a button that trigger an alert in the browser",
         "timestamp": "16092024164124",
         "message_id": "guest16092024164124"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a button that triggers a browser alert.",
+        "timestamp": "16092024164124",
+        "message_id": "guest16092024164124"
     }
 ]
