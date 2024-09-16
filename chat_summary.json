@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What shade of blue do you want for the background?\", \"option1\": \"Light blue\", \"option2\": \"Dark blue\"}, {\"question 2\": \"Would you like the text color to change to enhance readability against the blue background?\", \"option1\": \"Yes, change the text color\", \"option2\": \"No, keep the text color the same\"}], \"input_token_count\": 313, \"output_token_count\": 89, \"time_taken\": \"0:00:00.908845\"}",
+        "timestamp": "16092024164327",
+        "message_id": "guest16092024164321"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will change the background to blue.",
         "timestamp": "16092024164322",
