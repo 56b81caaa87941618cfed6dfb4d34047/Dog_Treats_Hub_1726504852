@@ -74,7 +74,7 @@ export default {
   methods: {
     // Alert method
     showAlert() {
-      art("This is an alert triggered by the button!");
+      alert("This is an alert triggered by the button!");
     }
     // End of Alert method
   }
