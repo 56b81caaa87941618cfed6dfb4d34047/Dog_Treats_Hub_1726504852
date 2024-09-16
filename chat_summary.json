@@ -6,5 +6,11 @@
         "timestamp": "1726504854",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "Add a button that trigger an alert in the browser",
+        "timestamp": "16092024164124",
+        "message_id": "guest16092024164124"
     }
 ]
