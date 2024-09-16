@@ -48,6 +48,11 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
             Get Started
             <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span>
           </a>
+
+          <button id="alert-button" class="btn mt-4 transition duration-150 ease-in-out group text-white bg-gradient-to-r from-purple-600 to-pink-500 hover:from-purple-500 hover:to-pink-400 rounded-lg px-4 py-2 shadow-lg" @click="showAlert">
+            <i class='bx bx-bell mr-2'></i>
+            Show Alert
+          </button>
         </div>
       </div>
     </div>
@@ -62,7 +67,15 @@ export default {
       expanded: false,
       tab: null
     };
+  },
+  methods: {
+    // Alert method
+    showAlert() {
+      alert("This is an alert triggered by the button!");
+    }
+    // End of Alert method
   }
+};
 };
 </script>
 
