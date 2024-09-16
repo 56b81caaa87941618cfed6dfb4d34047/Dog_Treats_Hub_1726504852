@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific text would you like to display next to the button to explain its functionality?\", \"option1\": \"Display 'Click here for alert!'\", \"option2\": \"Display 'Press this button to see an alert!'\"}, {\"question 2\": \"Where would you like this line of text to be positioned in relation to the button?\", \"option1\": \"Above the button\", \"option2\": \"Below the button\"}], \"input_token_count\": 506, \"output_token_count\": 102, \"time_taken\": \"0:00:01.576706\"}",
+        "message_id": "guest16092024181710",
+        "timestamp": "16092024181715",
+        "component_file_name": "blank_component_1726510536",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'll add a line of text explaining the button\u2019s function.",
         "message_id": "guest16092024181710",
