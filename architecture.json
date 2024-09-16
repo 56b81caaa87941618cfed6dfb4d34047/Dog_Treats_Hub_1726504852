@@ -30,5 +30,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested the AI to fix a \"show alert\" button so that it triggers an alert in the browser when pressed. The AI responded affirmatively and offered a checklist of additional features that might be implemented, which included options for adding confirmation dialogs, customizing messages, changing button colors, and more. The user confirmed the need for the alert functionality and indicated a desire for a specific customizable alert message. The AI acknowledged these requests and suggested further features like adding a button that triggers an alert in the browser, implementing hover effects, and including sound notifications. Following this, the user requested to change the background color to blue, to which the AI agreed and also presented options for text color adjustments. Throughout the interaction, the AI validated the user's requests and provided relevant follow-up questions to refine the desired features, aiming to enhance the user experience.\nUser: add a button that alerts when pressed\nAI: Sure, I will add a button with an alert function.\nUser: add a button that alerts in the browser when clicked\nAI: Sure, I'm implementing a button that triggers an alert.\n\nThis is the user's current request of changes to be made:\nadd a line of text that says what the buttton does"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nadd some copy about dog treats"
     }
 ]
