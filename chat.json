@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific message do you want the alert to display when the button is pressed?\", \"option1\": \"A custom message of my choice\", \"option2\": \"A predefined message like 'Button Pressed!'\"}, {\"question 2\": \"Do you want the button to have a specific style or color different from the current design?\", \"option1\": \"Yes, I'd like a specific color\", \"option2\": \"No, keep the current style\"}], \"input_token_count\": 349, \"output_token_count\": 106, \"time_taken\": \"0:00:01.900635\"}",
+        "message_id": "guest16092024172642",
+        "timestamp": "16092024172649",
+        "component_file_name": "purple_background_cta_component_1726504854",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will ensure the show alert button triggers a browser alert.",
         "message_id": "guest16092024172642",
