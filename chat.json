@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific message would you like the alert to display when the button is pressed?\", \"option1\": \"A simple message like 'Button clicked!'\", \"option2\": \"A custom message of my choice.\"}, {\"question 2\": \"Do you have a preferred style for the button, such as color or shape?\", \"option1\": \"A round button with a vibrant color\", \"option2\": \"A square button with a more subdued color\"}], \"input_token_count\": 580, \"output_token_count\": 107, \"time_taken\": \"0:00:01.789352\"}",
+        "message_id": "guest16092024181557",
+        "timestamp": "16092024181604",
+        "component_file_name": "blank_component_1726510536",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button that alerts when pressed",
         "message_id": "guest16092024181557",
