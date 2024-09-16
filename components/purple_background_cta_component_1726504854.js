@@ -53,6 +53,9 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
             <i class='bx bx-bell mr-2'></i>
             Show Alert
           </button>
+
+          <!-- New Image -->
+          <img id="new-image" src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Dog_Treats_Hub_1726504852/main/images/5698945cbb4944c28ba81fec8f9746d1.jpeg" alt="Dog treats" class="mt-8 rounded-lg shadow-lg w-full max-w-md mx-auto" />
         </div>
       </div>
     </div>
@@ -75,7 +78,6 @@ export default {
     }
     // End of Alert method
   }
-};
 };
 </script>
 
