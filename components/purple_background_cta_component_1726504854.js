@@ -5,8 +5,7 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
 
 <template>
   <section id="cta-section-container" class="bg-blue-500">
-    <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6 bg-blue-500">
-          </svg></div> <div id="content" class="max-w-3xl mx-auto text-center" style=""><div id="content-subtitle" class="flex"><div id="content-subtitle-text" class="flex-1 font-medium bg-clip-text pb-3 text-transparent bg-gradient-to-r from-purple-500 to-purple-200" style="">
+    <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6 bg-blue-500"></div> <div id="content" class="max-w-3xl mx-auto text-center" style=""><div id="content-subtitle" class="flex"><div id="content-subtitle-text" class="flex-1 font-medium bg-clip-text pb-3 text-transparent bg-gradient-to-r from-purple-500 to-purple-200" style="">
               Explore Our Pawsome Treats Collection
             </div></div> <div id="content-title-container" class="flex"><h2 id="content-title" class="flex-1 h2 bg-clip-text pb-4 bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60" style="">
               Treat Your Pup to Tail-Wagging Goodness
